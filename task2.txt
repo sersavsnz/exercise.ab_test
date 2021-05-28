@@ -1,0 +1,25 @@
+It is not clear what is supposed to be tested, so I list here the most general features which in my opinion must be tracked. 
+It is also hard to choose three metrics, so I list the features which in my opinion are the most important.
+They provide a powerful base for creating the metrics specific for the use case, as well as the information for deeper analysis.
+
+What needs to be tracked: 
+
+	1. Click: 1 or 0 - this is a good alternative to conversion, since it measures the users interest in feature.
+	It also can provide more insights into the users behaviour and the reasons why the user did not convert.
+	For example, when something was clicked but it did not result into conversion, would signalise to test the next
+	steps after the feature was clicked. It is also a very general measurement and can be applied to most of the features
+	tested on deepl.com, whether this is a button or a translation window, etc.
+	
+	2. Time spent (on a page or a specific region of interest - use the heatmap analysis): continuous variable - is also
+	general and reflects the users interest. Can indicate that the information is boring (too many words), does not attract
+	attention (ugly color, design), at the wrong place.
+
+	3. Visitors - it is important to track visitors not sessions, this gives a deeper insight into users behaviour. One
+	can understand, what drives the users decision to convert, how conversion correlates with number of sessions, text size.
+	
+Using these features together with the conversion and number of translated characters, one can create multiple metrics:
+	
+	1. clicks per views (sessions), clicks per user, clicks per time spent; 
+	2. the same for conversion
+	3. avg. values of the features: per dataset, per user, per session
+	4. bounce rate, churn rate,...

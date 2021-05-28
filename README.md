@@ -18,11 +18,13 @@ The fields in that csv file are:
 
 ## Your tasks
 
-1: Based on the data described in the previous section, we ask you to provide a manual analysis of the data. Imagine the following szenario: We have run the AB test for a while and provide you with the data we collected so far in order to suggest an action point to your Data Science Colleagues. Is it helping our business and we should accept it (i.e. release it as the new default)? Should we reject it? Should we extend the testing period? 
-As mentioned above, our production code for AB testing is based on Python. Therefore we would like you to use Python for your solution of this task (preferably Python 3). All your code should be placed within this directory.
-In terms of presentation of results, we use Jupyter Notebook for our analyses since it also works great for providing a presentation of the results to techincal colleagues along with the code. If you prefer something else, that's also fine. What's important to us is that we can easily follow your thinking and conclusions and your code is well comprehensible. Please provide all the code that is required to perform your analysis.
-As a guideline: If you are comfortable with the topic of AB testing this task can be completed within one or two hours. 
+1. Based on the data described in the previous section, we ask you to provide a manual analysis of the data. Imagine the following szenario: We have run the AB test for a while and provide you with the data we collected so far in order to suggest an action point to your Data Science Colleagues. Is it helping our business and we should accept it (i.e. release it as the new default)? Should we reject it? Should we extend the testing period? 
 
-For Bonus Points: In the file [INSTRUCTIONS.md](./INSTRUCTIONS.md), please provide instructions for us in order to execute the code you provided in order to reproduce your analysis. If you like it's fine to base this on a tool like Anaconda, poetry, Docker, make, etc.. Main aspect is that it should be easy for us to reproduce your results.
+    As mentioned above, our production code for AB testing is based on Python. Therefore we would like you to use Python for your solution of this task (preferably Python 3). All your code should be placed within this directory.
+    In terms of presentation of results, we use Jupyter Notebook for our analyses since it also works great for providing a presentation of the results to techincal colleagues along with the code. If you prefer something else, that's also fine. What's important to us is that we can easily follow your thinking and conclusions and your code is well comprehensible. Please provide all the code that is required to perform your analysis.
+    As a guideline: If you are comfortable with the topic of AB testing this task can be completed within one or two hours. 
+
+    For Bonus Points: In the file [INSTRUCTIONS.md](./INSTRUCTIONS.md), please provide instructions for us in order to execute the code you provided in order to reproduce your analysis. If you like it's fine to base this on a tool like Anaconda, poetry, Docker, make, etc.. Main aspect is that it should be easy for us to reproduce your results.
+
 
 2. So far we looked at 2 metrics. Which 3 other metrics would you include in the analysis to measure the impact of a change? Please give reasons for your choice. You can provide your answer in the file [task2.txt](./task2.txt).

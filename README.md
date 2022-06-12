@@ -1,4 +1,4 @@
-# Case Study Data Scientist for Product
+# Case Study Data Scientist
 
 ## Note
 This test assignment was given to me at the second stage of thes interview with one of the German companies. It followed by one hour discussion. I have successfully passed it and was offered a job position. 

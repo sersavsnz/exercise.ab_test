@@ -1,9 +1,9 @@
 # Case Study Data Scientist
 
 ## Note
-This test assignment was given to me at the second stage of thes interview with one of the German companies. It followed by one hour discussion. I have successfully passed it and was offered a job position. 
+This is a test assignment to one of the companies I applied to. I was offered a job position. 
 
-## The data
+## Data
 
 We provide you some dummy data to provide an AB test analysis on. Even though the data is synthetically generated, it is representative of what we are dealing with in reality. However in this case study we anaylze only a tiny subset of metrics we are interested in and the amount of data provided is only a fraction of what we are actually working with.
 
